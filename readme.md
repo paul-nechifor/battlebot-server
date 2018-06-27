@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/battlebot-server](http://gitlab.com/paul-nechifor/battlebot-server).
+
+Old readme:
+
 [![Build Status](https://travis-ci.org/dprgarner/battlebot-server.svg?branch=master)](https://travis-ci.org/dprgarner/battlebot-server)
 
 # Battlebot server
